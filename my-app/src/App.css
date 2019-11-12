@@ -1,0 +1,105 @@
+.header{
+  height:65px;
+  background-color:black;
+ 
+}
+#btn_id{
+  background-color:red;
+  color:white;
+  height:30px;
+  width:150px;
+  margin-right:10px;
+  float:right;
+  margin-top:18px;
+}
+#btn_doctor{
+  background-color:red;
+  color:white;
+  height:30px;
+  width:120px;
+    float:right;
+    margin-right:10px;
+}
+.modal {
+  font-size: 12px;
+}
+.modal > .header {
+  width: 100%;
+  border-bottom: 1px solid gray;
+  font-size: 18px;
+  text-align: center;
+  padding: 5px;
+}
+.modal > .content {
+  width: 100%;
+  padding: 10px 5px;
+}
+.modal > .actions {
+  width: 100%;
+  padding: 10px 5px;
+  margin: auto;
+  text-align: center;
+}
+.modal > .close {
+  cursor: pointer;
+  position: absolute;
+  display: block;
+  padding: 2px 5px;
+  line-height: 20px;
+  right: -10px;
+  top: -10px;
+  font-size: 24px;
+  background: #ffffff;
+  border-radius: 18px;
+  border: 1px solid #cfcece;
+}
+.header{
+  color:red;
+}
+.content{
+  color:black;
+}
+#btn_app
+{
+  color:green;
+}
+#btn-app
+{
+  background-color:red;
+  color:white;
+  height:30px;
+  width:150px;
+  margin-right:10px;
+  float:right;
+  margin-top:18px;
+}
+#grideview{
+  color:black;
+}
+.tblheader
+{
+  background-color:aqua;
+  color:red;
+}
+#tb_id2{
+  background-color:red;
+  color:white;
+  height:30px;
+  width:150px;
+  margin-right:10px;
+  float:right;
+  margin-top:18px;
+}
+#tb_id{
+  float:right;
+  background-color:red;
+  margin: auto;
+  color:white;
+}
+.a{
+  visibility: hidden;
+}
+.home{
+  height:100%;
+  width: 100%;
+}
